@@ -1,5 +1,4 @@
 //study robin karp algorithm (https://www.geeksforgeeks.org/dsa/introduction-to-pattern-searching/)
-
 #include <iostream>
 #include<vector>
 using namespace std;
