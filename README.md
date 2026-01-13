@@ -1,1 +1,1 @@
-# CodingPlatforms
+# CodingPlatform
